@@ -12,6 +12,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+/**
+ * Project generator
+ *
+ * https://start.spring.io/
+ */
 @SpringBootApplication
 public class DemoApplication {
 
